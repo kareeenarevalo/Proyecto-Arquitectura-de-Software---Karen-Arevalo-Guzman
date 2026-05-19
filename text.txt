@@ -1,4 +1,5 @@
 hola
 soy Karen
 este es mi archivo de prueba
-esta linea fue escrita desde el repositorio 
+esta línea fue escrita desde el repositorio 
+esta línea fue escrita desde el local
